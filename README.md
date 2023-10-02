@@ -1,2 +1,2 @@
-# resume_website
-My resume wesite
+# Resume-template
+Resume template built with HTML &amp; CSS
